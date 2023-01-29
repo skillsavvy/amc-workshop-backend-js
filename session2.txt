@@ -1,0 +1,21 @@
+Scopes
+Operators
+Truthy & Falsy values
+Conditional Statements
+Looping Statements
+NaN = not a number
+
+Arrays &  Array Methods(push, pop, forEach)
+Objects
+Prototypes - Definition
+Function - Definition & Structure
+Return statement
+Types of Functions
+1. Callbacks
+callback is a function which is passed as an argument to a function call
+2. function expression
+function expression - when you store the function as a value in a variable.
+3. anonymous functions
+functions who are not having any name
+
+SetTimeout - The global setTimeout() method sets a timer which executes a function or specified piece of code once the timer expires.

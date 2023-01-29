@@ -1,0 +1,12 @@
+//To create package.json
+
+npm init
+
+//To install npm package
+
+//npm install package_name
+//example:
+npm install validator
+
+//To reinstall npm packages: Just type
+npm install
